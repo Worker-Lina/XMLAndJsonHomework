@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLAndJsonHomework", "XMLAndJsonHomework\XMLAndJsonHomework.csproj", "{F49ADC6E-6A89-434A-8ACA-5321FB01EB20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherJson", "WeatherJson\WeatherJson.csproj", "{47A2F5AA-7C62-4A51-ABA1-268BBACB6994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F49ADC6E-6A89-434A-8ACA-5321FB01EB20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49ADC6E-6A89-434A-8ACA-5321FB01EB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49ADC6E-6A89-434A-8ACA-5321FB01EB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49ADC6E-6A89-434A-8ACA-5321FB01EB20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47A2F5AA-7C62-4A51-ABA1-268BBACB6994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47A2F5AA-7C62-4A51-ABA1-268BBACB6994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47A2F5AA-7C62-4A51-ABA1-268BBACB6994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47A2F5AA-7C62-4A51-ABA1-268BBACB6994}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52070C58-D2E7-4211-90C1-C31988E682F5}
+	EndGlobalSection
+EndGlobal
